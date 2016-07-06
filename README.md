@@ -1,6 +1,6 @@
 # Nascent LED Bar Example
 ```
-npm init
+npm install
 ```
 
 Then
